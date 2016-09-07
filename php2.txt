@@ -1,0 +1,17 @@
+http://obedalvarado.pw/blog/como-enviar-valor-a-ventana-modal-bootstrap-usando-php-mysql-y-jquery/
+
+http://obedalvarado.pw/php-scripts.php
+
+http://www.taringa.net/post/info/18709825/Ventanas-modales-con-variables-PHP.html
+
+http://www.htmlcinco.com/atributos-data/
+
+http://www.solvetic.com/tutoriales/article/1469-gestionando-tablas-din%C3%A1micas-con-el-plugin-datatables-de-jquery/
+
+
+http://entredesarrolladores.com/8646/pasar-datos-una-tabla-una-ventana-modal-una-tabla-padre-con-php
+
+
+http://www.lawebdelprogramador.com/foros/PHP/1408663-pasar-variables-a-ventana-modal.html
+
+
